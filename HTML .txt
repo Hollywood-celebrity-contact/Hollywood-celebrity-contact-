@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Hollywood Celebrity Contact</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: linear-gradient(to right, #000000, #434343);
+      color: #fff;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      padding: 30px;
+      text-align: center;
+      background: #222;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    .intro {
+      padding: 40px 20px;
+      text-align: center;
+    }
+    .intro p {
+      font-size: 1.2em;
+      max-width: 600px;
+      margin: auto;
+    }
+    .contact-btn {
+      margin-top: 30px;
+      display: inline-block;
+      padding: 15px 25px;
+      background: #ff4d4d;
+      color: white;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 5px;
+    }
+    footer {
+      text-align: center;
+      padding: 20px;
+      background: #111;
+      font-size: 0.9em;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Hollywood Celebrity Contact</h1>
+    <p>Connect with Your Favorite Stars</p>
+  </header>
+
+  <div class="intro">
+    <p>Welcome to the #1 source for verified Hollywood celebrity contact information. Whether you're a fan, a journalist, a booking agent, or a brand, we provide access to trusted details for reaching agents, publicists, and managers of top celebrities.</p>
+    <a href="#contact" class="contact-btn">Get Started</a>
+  </div>
+
+  <footer>
+    &copy; 2025 Hollywood Celebrity Contact. All rights reserved.
+  </footer>
+
+</body>
+</html>
